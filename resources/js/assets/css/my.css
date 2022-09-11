@@ -1,0 +1,63 @@
+.my-bg {
+    background: #3e3e3e !important;
+}
+.my-bg2 {
+    background: #836953 !important;
+}
+.my-bg3 {
+    background: #efeded !important;
+}
+.my-tgb {
+    color: #ffff !important;
+}
+.ch-pt {
+    padding-top: 85px;
+}
+.ch1-pt {
+    padding-top: 105px;
+}
+.ah600 {
+    height: 600px;
+}
+.ah370 {
+    height: 370;
+}
+.mh180 {
+    max-height: 220px;
+}
+.my-bg4 {
+    background: #add8e6 !important;
+}
+.my-bg5 {
+    background: #00bff3 !important;
+    color: #ffff !important;
+}
+.my-bg5:hover {
+    background: #18a9d1 !important;
+    color: #ffff !important;
+}
+.my-bg6 {
+    background: #f3b500 !important;
+    color: #ffff !important;
+}
+.my-bg6:hover {
+    background: #d4a10e !important;
+    color: #ffff !important;
+}
+.lh-h {
+    height: 65px;
+}
+.ah85 {
+    height: 85px;
+}
+.ifh {
+    height: 80px;
+}
+.abtimg {
+    height: 250px;
+    width: 270px;
+}
+.abtimg2 {
+    width: 263px;
+    height: 192px;
+}
